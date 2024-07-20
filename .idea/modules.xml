@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micro-service-article-main/MS-Article/MS-Article.iml" filepath="$PROJECT_DIR$/micro-service-article-main/MS-Article/MS-Article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-article-main/MS-Stock/MS-Stock.iml" filepath="$PROJECT_DIR$/micro-service-article-main/MS-Stock/MS-Stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-article-main/EurekaServer/src/main/main.iml" filepath="$PROJECT_DIR$/micro-service-article-main/EurekaServer/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stock_article.iml" filepath="$PROJECT_DIR$/.idea/stock_article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-article-main/EurekaServer/src/test/test.iml" filepath="$PROJECT_DIR$/micro-service-article-main/EurekaServer/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
